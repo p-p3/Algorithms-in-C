@@ -14,16 +14,13 @@
     ├── Algorithm A
     │   ├── algorithm-a.c
     │   ├── library.h  
-    │   ├── performance-analysis
-    │   │   ├── data.txt
-    │   │   └── graphic.png
+    │   ├── performance-analysis/
     │   └── README.md  
     | 
     ├── Algorithm B
     |   ├── algorithm-b.c
     |   ├── library.h  
     │   └── README.md  
-    .
     .
     .
     └── README.md (this file)
